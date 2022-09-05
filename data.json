@@ -1,0 +1,678 @@
+{
+		"Apex":
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd8GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "12",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "8",
+	            "contestdate" : "22-sep-2020"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "5",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "14",
+	            "contestdate" : "25-sep-2020"
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "15",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x`0:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "10",
+	            "contestdate" : "27-sep-2020"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "11",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "10",
+	            "contestdate" : "29-sep-2020"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "8",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "15",
+	            "contestdate" : "1-oct-2020"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "11",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "15",
+	            "contestdate" : "2-oct-2020"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "4",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "9",
+	            "contestdate" : "4-oct-2020"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "6",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "9",
+	            "contestdate" : "6-oct-2020"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "6",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "6",
+	            "contestdate" : "8-oct-2020"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "16",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "15",
+	            "contestdate" : "10-oct-2020"
+
+			}
+			],
+		"Valorant" :
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "19",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "15",
+	            "contestdate" : "12-oct-2021"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "0",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "12",
+	            "contestdate" : "14-oct-2021"
+				
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "07",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "11",
+	            "contestdate" : "16-oct-2021"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "9",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "21",
+	            "contestdate" : "18-oct-2021"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "21",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "18",
+	            "contestdate" : "22-oct-2021"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "17",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "5",
+	            "contestdate" : "24-oct-2021"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "13",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "21",
+	            "contestdate" : "22-oct-2021"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "8",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "21",
+	            "contestdate" : "12-nov-2021"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "10",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "9",
+	            "contestdate" : "25-nov-2021"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "12",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "25",
+	            "contestdate" : "30-nov-2021"
+
+			}
+			],
+		"Pubg" :
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "10",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "9",
+	            "contestdate" : "11-sep-2022"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "16",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "17",
+	            "contestdate" : "12-sep-2022"
+				
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "13",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "12",
+	            "contestdate" : "13-sep-2022"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "19",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "14",
+	            "contestdate" : "14-sep-2022"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "14",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "12",
+	            "contestdate" : "15-sep-2022"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "14",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "9",
+	            "contestdate" : "16-sep-2022"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "11",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "5",
+	            "contestdate" : "17-sep-2022"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "8",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "29",
+	            "contestdate" : "18-sep-2022"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "8",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "9",
+	            "contestdate" : "19-sep-2022"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "12",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "9",
+         "contestdate" : "20-sep-2022"
+			}
+			],
+		"Fortnite":
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "10",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "19",
+	            "contestdate" : "8-dec-2022"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "17",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "12",
+	            "contestdate" : "10-dec-2022"
+				
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "18",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "22",
+	            "contestdate" : "12-dec-2022"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "12",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "9",
+	            "contestdate" : "14-dec-2022"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "4",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "19",
+	            "contestdate" : "17-dec-2022"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "23",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "19",
+	            "contestdate" : "19-dec-2022"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "20",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "17",
+	            "contestdate" : "21-dec-2022"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "20",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "11",
+	            "contestdate" : "24-dec-2022"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "17",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/19=70x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "9",
+	            "contestdate" : "26-dec-2022"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "11",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "19",
+	            "contestdate" : "28-dec-2022"
+
+			}
+		],
+		"Warzone":
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "18",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "12",
+	            "contestdate" : "2-jan-2022"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "18",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "15",
+	            "contestdate" : "4-jan-2022"
+				
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "7",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/60x170:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "18",
+	            "contestdate" : "9-jan-2022"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "19",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "8",
+	            "contestdate" : "14-jan-2022"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "19",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "14",
+	            "contestdate" : "18-jan-2022"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "19",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "23",
+	            "contestdate" : "24-jan-2022"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "13",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "9",
+	            "contestdate" : "26-jan-2022"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "13",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "16",
+	            "contestdate" : "29-jan-2022"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "8",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "23",
+	            "contestdate" : "3-may-2022"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "10",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "19",
+	            "contestdate" : "7-may-2022"
+
+			}
+		],
+		"Forza":
+		[
+			{
+				"ID" : "1",
+                "Team1" : "ASTRONAUT GAMING",
+				"Team1_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-xvfwjNgkcjX-fCbtfC-bXxGwdjGm_FTkg&usqp=CAU",
+				"Team1_score" : "18",
+				"Team2" : "EAGLE GAMING",
+				"Team2_logo" : "https://i.pinimg.com/564x/e7/8b/f6/e78bf66e87e14c7c76ccdadf7ceade31.jpg",
+				"Team2_score" : "12",
+	            "contestdate" : "2-jan-2022"
+				
+			},
+			{
+				"ID" : "2",
+                "Team1" : "ANONYMOUS GAMING",
+				"Team1_score" : "18",
+				"Team1_logo" : "https://i.pinimg.com/564x/ac/26/f8/ac26f826a5ece3c97032a5024febc2a8.jpg",
+				"Team2" : "HEAD WOLF GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/wolf-esport-logo-gaming-team-vector_343694-1210.jpg?size=338&ext=jpg",
+				"Team2_score" : "15",
+	            "contestdate" : "4-jan-2022"
+				
+			},
+			{
+				"ID" : "3",
+                "Team1" : "DRAGONS GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/wild-dragon-mascot-logo_23-2148472530.jpg?w=740&t=st=1661950530~exp=1661951130~hmac=5261bcf99a5a4db644ad863adbd65d5766f40b0c31da5ef1a2880d4cd482818b",
+				"Team1_score" : "7",
+				"Team2" : "A-STAR GAMING",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/60x170:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "18",
+	            "contestdate" : "9-jan-2022"
+				
+			},
+			{
+				"ID" : "4",
+                "Team1" : "FROGS",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "19",
+				"Team2" : "ANUBIS GAMING",
+				"Team2_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team2_score" : "8",
+	            "contestdate" : "14-jan-2022"
+				
+			},
+			{
+				"ID" : "5",
+                "Team1" : "PANDA GAMING",
+				"Team1_logo" : "https://img.freepik.com/free-vector/frogs-mascot-logo_52683-35304.jpg?w=740&t=st=1661952344~exp=1661952944~hmac=f920487bdcdda3afa6a6e87f4602ef05c6280dc72af661e3b0c0662fc544ba6c",
+				"Team1_score" : "19",
+				"Team2" : "NIGHT SABER",
+				"Team2_logo" : "https://images-platform.99static.com//xMTkBSpxjBXJ54vmTKBqnT4w8Z4=/205x115:1821x1731/fit-in/500x500/99designs-contests-attachments/91/91574/attachment_91574770",
+				"Team2_score" : "14",
+	            "contestdate" : "18-jan-2022"
+
+			},
+			{
+				"ID" : "6",
+                "Team1" : "APE LEVEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "19",
+				"Team2" : "ROXOR",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "23",
+	            "contestdate" : "24-jan-2022"
+
+			},
+			{
+				"ID" : "7",
+                "Team1" : "BIGDASH DIESEL",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "13",
+				"Team2" : "ALPHA DRAGON",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "9",
+	            "contestdate" : "26-jan-2022"
+
+			},
+			{
+				"ID" : "8",
+                "Team1" : "SILVER BACK SQUAD",
+				"Team1_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team1_score" : "13",
+				"Team2" : "LOWKICK",
+				"Team2_logo" : "https://images-platform.99static.com//k2zmFqles5MKMh1540Iy5vQsCNs=/0x0:2000x2000/fit-in/500x500/99designs-contests-attachments/136/136933/attachment_136933251",
+				"Team2_score" : "16",
+	            "contestdate" : "29-jan-2022"
+
+			},
+			{
+				"ID" : "9",
+                "Team1" : "HERBINGERS OF DEATH",
+				"Team1_logo" : "https://images-platform.99static.com//DxMl4-BPslDulMUt263cEll6AVo=/278x0:1692x1414/fit-in/500x500/99designs-contests-attachments/133/133041/attachment_133041710",
+				"Team1_score" : "8",
+				"Team2" : "WEST COAST COBRA",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "23",
+	            "contestdate" : "3-feb-2022"
+
+			},
+			{
+				"ID" : "10",
+                "Team1" : "ENTORPH",
+				"Team1_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team1_score" : "10",
+				"Team2" : "TWENTY 2 LIFE",
+				"Team2_logo" : "https://images-platform.99static.com//br8O2M_DI7mQbAyaZgUm-xt_eWc=/120x120:1080x1080/fit-in/500x500/99designs-contests-attachments/108/108193/attachment_108193441",
+				"Team2_score" : "19",
+	            "contestdate" : "7-feb-2022"
+
+			}
+		]
+	}
